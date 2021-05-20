@@ -1,0 +1,37 @@
+/*Styling Section*/
+body {
+    text-align: center;
+    background: linear-gradient(lightgreen , darkgreen);
+}
+#img1 {
+    width: 330px;
+    height: 380px;
+    margin-right: 30px;
+    border: 8px black dashed;
+}
+
+#img {
+    width: 320px;
+    height: 400px;
+    border: 8px black dashed;
+}
+.head {
+    font-family: Calibri;
+    font-size: 40px;
+}
+.line {
+    width: 100px;
+    height: 7px;
+    background-color: black;
+    margin: 10 auto;
+}
+.para {
+    font-family: cursive;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 100;
+}
+.idk {
+    font-family: Segoe UI;
+    color: wheat;
+}
